@@ -22,8 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#exclude environment file 
+#exclude the environment file 
+
 .env
 
-#exclude videos
+#exclude videos folder
 /videos/*
